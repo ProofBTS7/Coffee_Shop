@@ -1,5 +1,5 @@
 .About {
-    background: #7d6046;
+    background-color: #7d6046;
     text-align: center;
 }
 
@@ -16,27 +16,14 @@
 
 .About_body {
     padding: 15px;
-    margin: 50px;
+    margin: 20px;
     border: 3px solid #d8cec6;
     border-radius: 10px;
     background-color: #00000026;
-    min-height: 10vh;
+    min-height: 20vh;
     display: flex;
     align-items: right;
     justify-content: right;
-    font-size: 15px;
+    font-size: 30px;
     color: white;
-}
-
-
-.ProductList {
-    display: flex;
-    flex-wrap: wrap;
-    justify-content: center;
-    margin-top: 20px;
-}
-
-.ProductList_card {
-    width: 20%;
-    max-width: 20%;
 }
